@@ -72,7 +72,12 @@ body {
   height: 50px;
   border-radius: 8px;
 }
-
+.cta-section{
+  background-image: url("assets/images/bg-boost-desktop.svg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: cover;
+}
 .link-card {
   background: #fff;
   padding: 15px 20px;
