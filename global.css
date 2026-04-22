@@ -62,6 +62,26 @@ body {
   transform: none;
 }
 
+.shorten-box input,
+.shorten-box button {
+  height: 50px;
+  border-radius: 8px;
+}
+
+.link-card {
+  background: #fff;
+  padding: 15px 20px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+
+.link-right a {
+  color: var(--cyan);
+  font-weight: 600;
+  text-decoration: none;
+}
+
 .is-invalid {
   border-color: var(--red) !important;
 }
