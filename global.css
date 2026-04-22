@@ -59,6 +59,11 @@ body {
 .shorten-box {
   background-color: var(--dark-violet);
   border-radius: 10px;
+  background-image: url("assets/images/bg-boost-desktop.svg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: cover;
+  border-radius: 10px;
   transform: none;
 }
 
@@ -162,12 +167,6 @@ footer a:hover, footer .bi:hover {
   background-color: var(--dark-violet); 
 }
 .text-gray { color: var(--grayish-violet); }
-
-
-.shorten-box { 
-  background-color: var(--dark-violet); 
-  border-radius: 10px; 
-}
 
 @media (min-width: 768px) {
   .shorten-box {
