@@ -69,17 +69,8 @@ All shortened links are stored in the browser's `localStorage`. This means:
 - Data is stored locally on your device
 - No server-side storage required
 
-## 🎨 Customization
-
-### Color Scheme
-Edit the CSS variables in `global.css`:
-- `--cyan`: Primary color (#2bd0d0)
-- `--dark-violet`: Secondary color (#3a3054)
-- `--red`: Error color (#f46363)
-
 ### Fonts
-The application uses the "Poppins" font from Google Fonts. Modify the import in `global.css` to change the typography.
-
+The application uses the "Poppins" font from Google Fonts.
 ## 🔒 Privacy
 
 This application runs entirely in your browser. No URLs or personal data are sent to any server except TinyURL's service for shortening. Your link history is stored locally.
@@ -94,10 +85,6 @@ This application runs entirely in your browser. No URLs or personal data are sen
 ## 📝 License
 
 This project is open source and available for personal and educational use.
-
-## 🤝 Contributing
-
-Feel free to fork, modify, and improve this project!
 
 ---
 
